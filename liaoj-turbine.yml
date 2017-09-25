@@ -14,4 +14,4 @@ logging:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://192.22.0.6:8748/eureka/,http://192.22.0.7:8748/eureka/
+      defaultZone: http://localhost:8748/eureka/
