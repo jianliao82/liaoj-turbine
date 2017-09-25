@@ -14,3 +14,5 @@ eureka:
     serviceUrl:
       defaultZone: http://192.22.0.6:8765/eureka/,http://192.22.0.7:8765/eureka/
 
+server:
+  port: 8069
